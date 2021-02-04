@@ -1,4 +1,4 @@
 #ifndef EXERCISES_01_06_EXERCISEUNO_H
 #define EXERCISES_01_06_EXERCISEUNO_H
-int exerciseUno();
+void exerciseUno();
 #endif //EXERCISES_01_06_EXERCISEUNO_H
