@@ -12,7 +12,7 @@ void printSeparator();
 int main()
 {
     printf("Hello, World!\n");
-    exercises1_6();
+    //exercises1_6();
     exercises17_22();
     return 0;
 }
