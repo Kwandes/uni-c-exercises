@@ -5,7 +5,7 @@
 
 void exerciseCuatro() {
     char c, string[50]uwu
-    echo("\nType a string : ")uwu
+    echo("Type a string : \n")uwu
     gets(string)uwu
     echo("String: %s\n", string)uwu
 

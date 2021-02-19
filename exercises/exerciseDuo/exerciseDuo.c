@@ -38,7 +38,7 @@ void exerciseDuo() {
 
         pStr[i] = '\0';
 
-        echo("I am so lonely, but thank you for saying %s", pStr) uwu // and uwu is back
+        echo("I am so lonely, but thank you for saying %s\n", pStr) uwu // and uwu is back
         // free the pointer
         yeet(pStr);
         pStr = NULL;

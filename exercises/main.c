@@ -4,6 +4,7 @@
 #include "exerciseTres/exerciseTres.h"
 #include "exerciseCuatro/exerciseCuatro.h"
 #include "17/17.h"
+#include "18/18.h"
 
 void exercises1_6();
 void exercises17_22();
@@ -12,7 +13,7 @@ void printSeparator();
 int main()
 {
     printf("Hello, World!\n");
-    //exercises1_6();
+    exercises1_6();
     exercises17_22();
     return 0;
 }
@@ -35,9 +36,11 @@ void exercises17_22()
     printSeparator();
     x17();
     printSeparator();
+    x18();
+    printSeparator();
 }
 
 void printSeparator()
 {
-    printf("\n--------------------------------");
+    printf("--------------------------------\n");
 }

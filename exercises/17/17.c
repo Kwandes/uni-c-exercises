@@ -11,11 +11,11 @@ void x17()
     xptr = &x uwu
     yptr = &y uwu
 
-    echo("\nIf this exercise failed, random big ints etc will be printed. Should be x=10 and y=20")uwu
-    echo("\nx = %d | y = %d", *xptr, *yptr)uwu
-    echo("\nAnd here are their addresses:")uwu
-    echo("\nx: %p", &*xptr)uwu
-    echo("\ny: %p", &*yptr)uwu
+    echo("If this exercise failed, random big ints etc will be printed. Should be x=10 and y=20\n")uwu
+    echo("x = %d | y = %d\n", *xptr, *yptr)uwu
+    echo("And here are their addresses:\n")uwu
+    echo("x: %p\n", &*xptr)uwu
+    echo("y: %p\n", &*yptr)uwu
 }
 
 
